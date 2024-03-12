@@ -21,9 +21,16 @@ To provide airlines and stakeholders with actionable insights to enhance the pas
 + Created a line chart to show average cabin staff service by month.
 + Created filters based on metrics, date, seat type, traveller type, country and aircraft to mae it more interactive and user friendly.
 
+Below is the link to the interactive dashboard:
+https://public.tableau.com/app/profile/suchismita.sahoo/viz/BritishAirwaysReview_17099003686860/Dashboard1
+
+
+![1](https://github.com/Suchi0506/Tableau_project_British_Airways_reviews/assets/140787972/9e3ed8fa-08d9-4638-9923-2774a7ae906b)
+
 ## Insights ##
 + Average cabin staff service recorded worse during May 2020
 + Average overall rating was recorded highest in Czechia which is 9.5
 + Boeing 747-400 tops the list as having most satisfied customer based on average overall rating provided by customers amongst many airlines.
+
 
   
